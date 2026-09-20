@@ -1,7 +1,7 @@
 # Cancer Prediction (Breast Cancer - Benign or Malignant)
 
-**Name:** _your name_
-**Course:** B.Sc. _your course_
+**Name:** _Divesh Satish Kamble_
+**Course:** B.Sc. 
 **Internship:** YBI Foundation - Data Science and Machine Learning
 
 ## About the Project
