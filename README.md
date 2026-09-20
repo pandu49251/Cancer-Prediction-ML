@@ -4,7 +4,7 @@
 **Course:** B.Sc. 
 **Internship:** YBI Foundation - Data Science and Machine Learning
 
-## About the Project
+## About the Project:-
 
 This project predicts whether a breast tumour is **benign (not cancer)** or
 **malignant (cancer)** using measurements of the tumour cells. The model can be used as a
